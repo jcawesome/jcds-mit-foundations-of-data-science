@@ -1,4 +1,4 @@
-# [Pima Indians Diabetes Analysis](https://github.com/jcawesome/jcds-jovian-projects/blob/main/notebooks/landscape-classification-zerotogans-project/README.md)
+# [Pima Indians Diabetes Analysis](https://github.com/jcawesome/jcds-mit-foundations-of-data-science/blob/main/Project%20Assessment%20-%20Foundations%20of%20Data%20Science/Notebook_Pima%2BDiabetes%2BAnalysis_JCMP.ipynb)
 
 ## Introduction
 In this notebook, I will try and use different techniques I have learned from the **Foundations of Data Science** course under the MIT - "Data Science and Machine Learning: Making Data-Driven Decisions" Program.
